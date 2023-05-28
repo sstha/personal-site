@@ -69,6 +69,4 @@ describe('renders the app', () => {
     expect(document.title).toContain('Resume |');
     expect(window.location.pathname).toBe('/resume');
   });
-});  
-
-
+});
