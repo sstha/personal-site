@@ -1,1 +1,1 @@
-sstha.github.io
+sstha.github.io/personal-site
